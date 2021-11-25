@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Jesse - aka [MrThorntonDev]
 
-<!--
-**MrThorntonDev/MrThorntonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Gamer, Geek, Developer, and Certified NUtcase!!
 
-Here are some ideas to get you started:
+- 🔭 I first learnt coding by: [Teaching.Myself]
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love the outdoors, meeting new people and enjoy gaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+[website]: https://discord.gg/pEuz4Sz
+[twitter]: https://twitter.com/MrThorntonTTV
+[youtube]: https://www.youtube.com/channel/UCZbEFrxmlVXe6B1xiu9F19g
+[instagram]: https://www.instagram.com/real_mrthornton/
