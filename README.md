@@ -1,6 +1,6 @@
 ### Hi there, I'm Mr T - aka [MrThorntonDev]
 
-## I'm a Gamer, Geek, Developer, and Certified NUtcase!!
+## I'm a Gamer, Geek, Developer, and Certified Nutcase!!
 
 - 🔭 I first learnt coding by: [Teaching.Myself]
 - 🌱 I’m currently learning everything 🤣
