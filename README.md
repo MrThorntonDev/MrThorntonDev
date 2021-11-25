@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [MrThorntonDev]
+### Hi there, I'm Thorn - aka [MrThorntonDev]
 
 ## I'm a Gamer, Geek, Developer, and Certified NUtcase!!
 
